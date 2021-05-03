@@ -1,0 +1,61 @@
+
+
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1197.98px) {
+    
+ 
+    .header-area3 .header-bottom:before{
+        display: none;
+    }
+    .header-area3 .logo:before, 
+    .header-area3 .logo:after{
+        display: none;
+    }
+    
+}
+
+/* Normal desktop :991px. */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+   
+    .header-area3 .header-bottom:before{
+        display: none;
+    }
+    .header-area3 .logo:before, 
+    .header-area3 .logo:after{
+        display: none;
+    }
+    
+}
+
+/*mobile :320px. */
+@media (max-width:  767.98px) {
+    
+    .header-area2 .contact-info li {
+        margin: 29px 4px 25px;
+        font-size: 12px;
+    }
+    
+    .header-area3 .header-bottom:before{
+        display: none;
+    }
+    .header-area3 .logo:before, 
+    .header-area3 .logo:after{
+        display: none;
+    }
+    
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+
+/* small mobile :480px. */
+
+
+
+@media (min-width: 480px) and (max-width: 575.98px) {
+    
+}
