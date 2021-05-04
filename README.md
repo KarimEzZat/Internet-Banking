@@ -13,7 +13,7 @@ Online Banking System in PHP & MySQL.
 
 4. change the password in _inc/dbconn.php file accordingly.
 
-5. visit localhost/banking (customer index page)
+5. visit localhost/online-bank (customer index page)
 
 6. visit localhost/online-bank/adminlogin.php (admin login)
 
